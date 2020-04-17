@@ -15,7 +15,7 @@ The basics of programming in R for Kids.
 ### Installation
 
 ```r
-swirl::install_course("Data_Science_for_Kids")
+swirl::install_course("Data_Science_for_Kids-2")
 ```
 
 #### Manual Installation
